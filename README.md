@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linh125760
 - 👀 I’m interested in FE
-- 🌱 I’m currently learning in Sun* Inc
+- 🌱 I used to study at FPT Polytechnic Danang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: facebook/toilalinh12
 
